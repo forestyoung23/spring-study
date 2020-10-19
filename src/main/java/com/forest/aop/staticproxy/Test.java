@@ -3,7 +3,7 @@ package com.forest.aop.staticproxy;
 import com.forest.aop.service.impl.TestServiceImpl;
 
 /**
- * @author dongyang
+ * @author Forest
  * @date 2020年10月19日 15:27
  */
 public class Test {

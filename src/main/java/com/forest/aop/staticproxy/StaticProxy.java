@@ -5,7 +5,7 @@ import com.forest.aop.service.TestService;
 /**
  * 静态代理
  *
- * @author dongyang
+ * @author Forest
  * @date 2020年10月19日 15:20
  */
 public class StaticProxy implements TestService {
